@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 # import matplotlib as plt
 # import matplotlib.image as mpimg
-import seaborn as sns
+# import seaborn as sns
 import streamlit as st
 import urllib
 from func import DataAnalyzer, BrazilMapPlotter
