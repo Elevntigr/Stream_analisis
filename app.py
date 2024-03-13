@@ -6,7 +6,7 @@ import pandas as pd
 import streamlit as st
 import urllib
 from func import DataAnalyzer, BrazilMapPlotter
-from babel.numbers import format_currency
+# from babel.numbers import format_currency
 sns.set(style='dark')
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
