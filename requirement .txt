@@ -1,4 +1,4 @@
-
+libgl1
 altair==5.2.0
 ansicon==1.89.0
 appdirs== 1.4.4
