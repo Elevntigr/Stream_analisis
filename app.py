@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
-import matplotlib
-import matplotlib.plotly as plt
+import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 import seaborn as sns
 import streamlit as st
